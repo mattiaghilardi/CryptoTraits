@@ -432,7 +432,7 @@ macro "Crypto Traits Action Tool - N44C333D00C777D01C666D02C222D03CccdD04CaafD05
 				xAO = HPoints[2];
 				yAO = HPoints[3];
 			}
-		} else if (side == "right") {
+		} else {
 			if (HPoints[0] < HPoints[2]) {
 				xAO = HPoints[2];
 				yAO = HPoints[3];
