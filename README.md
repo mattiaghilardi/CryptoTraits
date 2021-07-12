@@ -11,4 +11,4 @@ To install the macro clone or download the entire repository, then copy the `Cry
 
 Open ImageJ/FIJI, click on the `More tools menu` (`>>`) in the toolbar and select `CryptoTraits`. The macro requires ImageJ 1.53e, thus if you have an older version you must first update it by clicking on **Help -> Update ImageJ...** After the update, restart ImageJ/Fiji and select `CryptoTraits` from the `More tools menu`.
 
-<img src="CryptoTraits%20Icon.png" width="30" title="hover text"> This icon will appear in the main toolbar.
+<img src="Images/CryptoTraits%20Icon.png" width="30" title="hover text"> This icon will appear in the main toolbar.
