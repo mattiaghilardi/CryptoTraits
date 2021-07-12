@@ -1,6 +1,6 @@
 //// CryptoTraits: an ImageJ macro to measure morphological traits from side-view images of cryptobenthic fishes
 //// Author: Mattia Ghilardi
-//// mattia.ghilardi@leibniz-zmt.de
+//// mattia.ghilardi91@gmail.com
 //// Last updated: 21 May 2021
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
