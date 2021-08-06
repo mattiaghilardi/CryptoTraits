@@ -3,7 +3,7 @@
 
 
 # Description
-`CryptoTraits`is an ImageJ macro that allows to perform a standardised, reproducible, and semi-automated "traditional" morphometric analysis of cryptobenthic fishes from side-view images. It is written in the ImageJ 1.x macro language, thus can be used in both ImageJ and Fiji. It was first being developed to aid trait measurement for a project on cryptobenthic reef fishes in Palau. The macro is under further development and will be included in a larger toolset for fish morphometric analysis.
+`CryptoTraits`is an ImageJ macro that allows to perform a standardised, reproducible, and semi-automated "traditional" morphometric analysis of cryptobenthic fishes from side-view images. It measures 16 morphological traits which are described [here](https://github.com/mattiaghilardi/CryptoTraits/tree/main/Docs/Definitions%20of%20traits%20and%20reference%20lines.pdf). It is written in the ImageJ 1.x macro language, thus can be used in both ImageJ and Fiji. It was first being developed to aid trait measurement for a project on cryptobenthic reef fishes in Palau. The macro is under further development and will be included in a larger toolset for fish morphometric analysis.
 
 # Installation
 To install the macro clone or download the entire repository (green button on the project's main page), then copy the `CryptoTraits.ijm` file in the `ImageJ/macros/toolsets/` or `Fiji.app/macros/toolsets/` directory.
@@ -105,7 +105,7 @@ For anyone minimally familiar with ImageJ the use of this macro will be pretty s
 <br>2.6. Once the reference lines are drawn, you need to select the body area, from the tip of the snout to the narrowest point of the caudal peduncle (line F). To do this, trace a polygon and adjust it as needed. **You MUST cross line F**, the extra area selected will then be automatically cut at line F.
 
 <br>2.7. You are almost done with the first image. Follow the instructions of the next two steps to add a point at the tip of the upper jaw and another at the corner of the mouth (i.e. the intersection between the maxilla and the mandible). 
-After these steps the analysis of the image is completed and the results file containing values for [16 morphological traits](https://github.com/mattiaghilardi/CryptoTraits/tree/main/Docs/Definitions%20of%20traits%20and%20reference%20lines.pdf) is saved in the chosen directory. The ROIs are saved in their directory, where also the rotated or straightened images are saved as `.jpg` files to allow reproducibility. The image is closed and the next is opened.
+After these steps, the analysis of the image is completed and the results file containing values for [16 morphological traits](https://github.com/mattiaghilardi/CryptoTraits/tree/main/Docs/Definitions%20of%20traits%20and%20reference%20lines.pdf) is saved in the chosen directory. The ROIs are saved in their directory, where also the rotated or straightened images are saved as `.jpg` files to allow reproducibility. The image is closed and the next is opened.
 
 <br>2.8. Repeat steps 2.2. to 2.7. for all the images you decided to analyse. Once finished, a message (Fig. 10) will remind you where the ROIs and results are saved, as well as how many images you analysed. You can check that they are saved properly before closing the results table.
 
