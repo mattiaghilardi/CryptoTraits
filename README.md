@@ -1,6 +1,6 @@
 # CryptoTraits
 [![License](https://img.shields.io/github/license/mattiaghilardi/CryptoTraits)](https://choosealicense.com/)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5166934.svg)](https://doi.org/10.5281/zenodo.5166934)
 
 # Description
 `CryptoTraits`is an ImageJ macro that allows to perform a standardised, reproducible, and semi-automated "traditional" morphometric analysis of cryptobenthic fishes from side-view images. It measures 16 morphological traits which are described [here](https://github.com/mattiaghilardi/CryptoTraits/tree/main/Docs/Definitions%20of%20traits%20and%20reference%20lines.pdf). It is written in the ImageJ 1.x macro language, thus can be used in both ImageJ and Fiji. It was first being developed to aid trait measurement for a project on cryptobenthic reef fishes in Palau. The macro is under further development and will be included in a larger toolset for fish morphometric analysis.
